@@ -146,3 +146,10 @@ grep
     grep -vi tcp /etc/services -> Ищет всё что кроме tcp
     grep -rli peerdns /usr/share/doc/ -> Ищет рекурсивно слово peerdns во всех файлах внутри папки /usr/share/doc/
     ip addr show | grep inet -> Ищет inet в выходных данных от ip addr show
+
+ps
+    Перечисляет процессы
+top
+    Также перечисляет процессы.
+gedit
+    Открывает редактор выбранный gnome
